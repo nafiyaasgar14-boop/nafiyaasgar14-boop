@@ -45,11 +45,11 @@
 
 ## 🧠 Currently Exploring
 
-- 📊 Data Science and Data Analytics
-- 🐍 Python for data analysis
-- 📈 Data visualization and working with datasets
-- 🔐 Cybersecurity fundamentals and ethical hacking
-- 💻 Building practical projects and strengthening problem-solving skills
+-  Data Science and Data Analytics
+-  Python for data analysis
+-  Data visualization and working with datasets
+-  Cybersecurity fundamentals and ethical hacking
+-  Building practical projects and strengthening problem-solving skills
 
 ---
 
