@@ -2,72 +2,62 @@
 
 ### BCA Honours Student | Aspiring Data Scientist | Cybersecurity Enthusiast
 
-I'm a Computer Applications student at Rajagiri College of Management & Applied Sciences, interested in exploring data, discovering patterns, and understanding how technology solves real-world problems.
+🎓 BCA Honours student at Rajagiri College of Management & Applied Sciences.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Honours student passionate about technology.
-- 📊 Interested in Data Science and Data Analytics.
-- 🐍 Learning Python for data analysis and problem-solving.
-- 📈 Exploring statistics, data visualization, and machine learning.
-- 🔐 Interested in cybersecurity and digital security.
-- 🌱 Continuously learning and building my technical skills.
-- 🎯 Goal: Build practical projects and grow as a Data Scientist.
+-  Interested in Data Science and data analysis.
+-  Learning Python and exploring ways to work with data.
+-  Exploring cybersecurity, ethical hacking, and digital security.
+-  Developing my problem-solving and analytical thinking skills through coding and practical projects.
+-  Interested in building projects and gaining hands-on experience.
+-  Always learning and improving my technical skills.
+-  Long-term goal: Develop data-driven solutions and explore innovative approaches to cybersecurity.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 
 ### Data Science & Analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
 ## 🧠 Currently Exploring
 
 - 📊 Data Science and Data Analytics
-- 🐍 Python for Data Analysis
-- 📈 Statistics and Data Visualization
-- 🤖 Machine Learning Fundamentals
-- 🔐 Cybersecurity Fundamentals
-- 💻 Building practical projects
-
----
-
-## 🚀 Projects
-
-*I'm working on strengthening my skills and building projects.*
-
-More projects coming soon!
+- 🐍 Python for data analysis
+- 📈 Data visualization and working with datasets
+- 🔐 Cybersecurity fundamentals and ethical hacking
+- 💻 Building practical projects and strengthening problem-solving skills
 
 ---
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/nafiyaasgar14-boop)
-
-<!-- Add your LinkedIn button here when ready -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nafiya-asgar-1b5a6a369)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafiyaasgar14-boop)
 
 ---
 
-*Learning every day. Building step by step.* 🌱
+
