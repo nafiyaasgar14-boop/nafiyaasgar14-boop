@@ -7,6 +7,7 @@ I enjoy exploring data, solving problems, and learning how technology can be use
 My journey in computer science has introduced me to programming, databases, and data analysis, and I'm continuing to develop my skills while exploring cybersecurity and digital security.
 
 I'm continuously learning, improving my problem-solving skills, and building projects to gain hands-on experience, with the long-term goal of exploring how Data Science and Cybersecurity can work together.
+
 ---
 
 ##  About Me
