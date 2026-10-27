@@ -1,12 +1,15 @@
-# Hi, I'm Nafiya Asgar! 👋
+## Hey, I'm Nafiya Asgar 👋
 
-### BCA Honours Student | Aspiring Data Scientist | Cybersecurity Enthusiast
+I'm Nafiya Asgar, a **BCA Honours student at Rajagiri College of Management & Applied Sciences, Kochi**, interested in Data Science, data analysis, and cybersecurity.
 
-🎓 BCA Honours student at Rajagiri College of Management & Applied Sciences.
+I enjoy exploring data, solving problems, and learning how technology can be used to address real-world challenges.
 
+My journey in computer science has introduced me to programming, databases, and data analysis, and I'm continuing to develop my skills while exploring cybersecurity and digital security.
+
+I'm continuously learning, improving my problem-solving skills, and building projects to gain hands-on experience, with the long-term goal of exploring how Data Science and Cybersecurity can work together.
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 -  Interested in Data Science and data analysis.
 -  Learning Python and exploring ways to work with data.
@@ -18,7 +21,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Languages
 
@@ -43,7 +46,7 @@
 
 ---
 
-## 🧠 Currently Exploring
+##  Currently Exploring
 
 -  Data Science and Data Analytics
 -  Python for data analysis
@@ -53,7 +56,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nafiya-asgar-1b5a6a369)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafiyaasgar14-boop)
