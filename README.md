@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Data_Analytics-Learning-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Exploring-111827?style=for-the-badge" />
 </p>
-## Hey, I'm Nafiya Asgar 👋
+Hey, I'm Nafiya Asgar 👋
 
 I'm Nafiya Asgar, a **BCA Honours student at Rajagiri College of Management & Applied Sciences, Kochi**, interested in Data Science, data analysis, and cybersecurity.
 
