@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Nafiya Asgar - Data Science & Cybersecurity">
+</p>
 
+<br>
 <br><p align="center">
   <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rajagiri_College-Kochi-111827?style=for-the-badge" />
