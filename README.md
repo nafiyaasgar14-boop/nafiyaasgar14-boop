@@ -1,5 +1,4 @@
 
-
 <br><p align="center">
   <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rajagiri_College-Kochi-111827?style=for-the-badge" />
